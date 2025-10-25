@@ -1,4 +1,4 @@
-integrantes = ["Macarena Santamaria", "Sofia Daniela Vedia"]
+integrantes = ["Macarena Santamaria", "Francisca Urrutia", "Sofia Daniela Vedia"]
 
 # Abrir (o crear) el archivo en modo escritura
 with open("integrantes.txt", "w") as archivo:
