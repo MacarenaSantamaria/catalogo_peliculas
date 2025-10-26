@@ -69,6 +69,7 @@ Por ejemplo, puedes ingresar nombres como:
 Titanic
 El Señor de los Anillos
 Barbie
+
 ---
 
 ## 💻 Ejecución alternativa 
