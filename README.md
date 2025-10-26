@@ -21,12 +21,19 @@ Cada catálogo se crea con un nombre propio, y las películas pueden **agregarse
 ## 🗂️ Estructura del proyecto
 
 catalogo_peliculas-feature-principal/
+
 ├─ Catalogo.py # Lógica principal: clases y métodos del catálogo
+
 ├─ principal.py # Menú principal por consola
+
 ├─ interfaz.py # Versión gráfica del catálogo (Tkinter)
+
 ├─ integrantes.py # Genera y muestra la lista de integrantes
+
 ├─ Drama.txt # Ejemplo de catálogo existente
+
 ├─ requirements.txt # Versión mínima de Python
+
 └─ README.md # Detalles del proyecto
 
 
