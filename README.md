@@ -52,7 +52,7 @@ catalogo_peliculas-feature-principal/
 1. Abre la carpeta del proyecto en tu terminal o VS Code.
 2. Ejecuta el siguiente comando:
 
-```bash
+
 python principal.py
 
 El programa mostrará un menú interactivo como este:
