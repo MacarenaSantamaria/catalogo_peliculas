@@ -49,6 +49,7 @@ catalogo_peliculas-feature-principal/
 python principal.py
 
 El programa mostrará un menú interactivo como este:
+
 --- MENÚ ---
 1. Agregar Película
 2. Listar Películas
@@ -62,7 +63,7 @@ Titanic
 El Señor de los Anillos
 Barbie
 
-💻 Ejecución alternativa (en desarrollo)
+💻 Ejecución alternativa 
 
 Existe una versión opcional del proyecto que utiliza Tkinter,
 la cual permite manejar el catálogo mediante una ventana gráfica interactiva.
