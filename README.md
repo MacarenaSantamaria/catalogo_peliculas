@@ -69,8 +69,9 @@ Por ejemplo, puedes ingresar nombres como:
 Titanic
 El Señor de los Anillos
 Barbie
+---
 
-💻 Ejecución alternativa 
+## 💻 Ejecución alternativa 
 
 Existe una versión opcional del proyecto que utiliza Tkinter,
 la cual permite manejar el catálogo mediante una ventana gráfica interactiva.
@@ -108,7 +109,9 @@ Cada acción mostrará los resultados directamente dentro de la ventana.
 El programa utiliza la misma lógica de clases (CatalogoPeliculas, Pelicula)
 que la versión por consola, por lo que ambas son totalmente compatibles.
 
-👩‍💻 Integrantes del equipo
+---
+
+## 👩‍💻 Integrantes del equipo
 
 | Nombre                     | Rol            | Aporte principal                            |
 | -------------------------- | -------------- | ------------------------------------------- |
@@ -116,7 +119,9 @@ que la versión por consola, por lo que ambas son totalmente compatibles.
 | 💜 **Francisca Urrutia**   | Desarrolladora | Decoradores, funciones recursivas y pruebas |
 | 💗 **Sofía Daniela Vedia** | Desarrolladora | Manejo de archivos y menú principal         |
 
-🌸 Características destacadas
+---
+
+## 🌸 Características destacadas
 
 Uso de decoradores para registrar acciones
 
